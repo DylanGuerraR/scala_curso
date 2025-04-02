@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/dylan/IdeaProjects/scala_curso/src/main/scala/com/keepcoding/scala/capitulo7/Implicits.scala:9:16: Implicit definition should have explicit type (inferred String) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val myStr = "Juan dice"  // se debe declarar un value implicito para que lo obtenga el metodo[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
